@@ -1,4 +1,5 @@
 # Add seed data here. Seed your database with `rake db:seed`
+# Movie.destroy_all
 
 Movie.create(title: "Wargames", release_date: 1983, director: "John Badham", lead: "Matthew Broderick", in_theaters: false)
 
